@@ -1,7 +1,7 @@
 # Picar Navigation
 
 ## Description
-This ROS package includes all code for the navigation of the picar. So far this only includes the low-level driving of the car, i.e. the steering and acceleration of the vehicle based on a Twist message.
+This ROS package contains all code for the navigation of the picar. So far this only includes the low-level driving of the car, i.e. the steering and acceleration of the vehicle based on a Twist message.
 
 ## Packages
 
